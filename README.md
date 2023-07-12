@@ -1,4 +1,4 @@
-1: If you export bloodbank.sql database file then open terminal and write command **php artisan serve** to run this project.
+1: If you import bloodbank.sql database file then open terminal and write command **php artisan serve** to run this project.<br>
 2: If you can't export sql database file then open terminal and write following commands:
    1: open http://localhost/phpmyadmin/
    2: Make new database name **bloodbank**
